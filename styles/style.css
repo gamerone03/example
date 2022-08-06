@@ -1,0 +1,14 @@
+body{  
+    background-color: rgb(235, 140, 187);  /*fallback ;-)*/
+    background: linear-gradient(to right, #89fffd,#ef32d9);
+}
+
+a{
+    text-decoration: none;
+    font-size: 30px;
+    font-family:sans-serif;
+}
+
+span{
+    color: brown;
+}
